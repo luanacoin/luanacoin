@@ -12,6 +12,6 @@
   <a href="https://br.linkedin.com/in/luana-pereira-coin-498839123" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/989242711880130673/989246413487636540/Ilustracao_Sem_Titulo.gif">
 
-  ![Snake animation](https://github.com/rafaballerini/luanacoin/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luanacoin/luanacoin/blob/output/github-contribution-grid-snake.svg)
  
   </div>
