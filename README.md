@@ -5,11 +5,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanacoin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
  
-![image 7](https://github.com/luanacoin/luanacoin/assets/106402298/c6d90171-eeb1-4c64-906b-cfdbeab57f20)
-![image 3](https://github.com/luanacoin/luanacoin/assets/106402298/456d2256-c1e3-4cf0-8b39-7f258a0d7b4a)
-![image 4](https://github.com/luanacoin/luanacoin/assets/106402298/b52d77ac-d8c6-4db8-bad9-ba628deae20f)
-![image 5](https://github.com/luanacoin/luanacoin/assets/106402298/dc17e21a-04ea-4844-b81d-6bdb75094a7f)
-![image 6](https://github.com/luanacoin/luanacoin/assets/106402298/9e0a84ec-6ee3-4ff2-8e2f-2331475a219f)
-
-
+<div> 
+  
+  <a href="https://instagram.com/cointecnologia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+  <a href = "mailto:tecnologiascoin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luana-coin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
