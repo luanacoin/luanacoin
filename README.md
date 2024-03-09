@@ -1,5 +1,5 @@
 ## Oiii eu sou a Luana Coin :) 
-Estudante de ADS focado em Front-End, formada em UX | UI Design
+✨ Desenvolvedora Front-end com especialização em Design de UX|UI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
